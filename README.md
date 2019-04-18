@@ -1,6 +1,6 @@
 
 
-![image](https://github.com/PyreneGitHub/ConfCenter_web_Admin/tree/master/png)
+![image](https://github.com/PyreneGitHub/ConfCenter_web_Admin/blob/master/png/logo.png)
 
 ## ConfCenter_web_Admin
 
