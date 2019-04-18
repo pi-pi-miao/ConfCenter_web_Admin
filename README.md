@@ -1,6 +1,6 @@
+<img src='https://github.com/PyreneGitHub/ConfCenter_web_Admin/blob/master/png/logo.png' align='center' style=' width:300px;height:100 px'/>
 
 
-<div align=center>![image](https://github.com/PyreneGitHub/ConfCenter_web_Admin/blob/master/png/logo.png)
 
 ## ConfCenter_web_Admin
 
