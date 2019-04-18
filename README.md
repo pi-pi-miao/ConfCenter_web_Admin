@@ -35,9 +35,7 @@ log_path = "填写日志路径，最后是以文件结尾"
 
 ## 注意：此管理系统正在开发中，生产环境暂时不可用，如果需要用到欢迎进行二次开发，如果遇到问题欢迎提issue或者加我微信
 
-![image]()
-
-<img src='https://github.com/PyreneGitHub/ConfCenter_web_Admin/blob/master/png/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87.jpg' style='float:center; width:200px;height:50 px'/>
+<img src='https://github.com/PyreneGitHub/ConfCenter_web_Admin/blob/master/png/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87.jpg' div align=center; width = 30% height = 30%/>
 
 
 
