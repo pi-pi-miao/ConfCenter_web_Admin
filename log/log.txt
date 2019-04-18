@@ -1,0 +1,61 @@
+2019/04/18 18:42:59.798 [I] [asm_amd64.s:1333] http server Running on http://127.0.0.1:10001
+2019/04/18 18:43:03.578 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:43:03.578 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:43:03.579 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:43:03.580 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:03.580 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:03.581 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:03.581 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:03.581 [D] [asm_amd64.s:522] this is operation data ------- [0xc00072a000 0xc00072a070 0xc00072a0e0 0xc00072a150 0xc00072a1c0 0xc00072a230 0xc00072a2a0]
+2019/04/18 18:43:03.587 [D] [server.go:2742] 127.0.0.1 - - [18/Apr/2019 06:43:03] "GET /list_service HTTP/1.1 200 0" 0.011007  Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+
+2019/04/18 18:43:03.769 [D] [server.go:2742] 127.0.0.1 - - [18/Apr/2019 06:43:03] "GET /static/image/favicon.ico HTTP/1.1 200 0" 0.000000 http://127.0.0.1:10001/list_service Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+
+2019/04/18 18:43:34.883 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:43:34.883 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:43:34.883 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:43:34.884 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:34.884 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:34.885 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:34.885 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:34.885 [D] [asm_amd64.s:522] this is operation data ------- [0xc000716070 0xc0007160e0 0xc000716150 0xc0007161c0 0xc000716230 0xc0007162a0 0xc000716310]
+2019/04/18 18:43:34.890 [D] [server.go:2742] 127.0.0.1 - - [18/Apr/2019 06:43:34] "GET /list_service HTTP/1.1 200 0" 0.008875  Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+
+2019/04/18 18:43:35.165 [D] [server.go:2742] 127.0.0.1 - - [18/Apr/2019 06:43:35] "GET /static/image/favicon.ico HTTP/1.1 200 0" 0.000000 http://127.0.0.1:10001/list_service Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+
+2019/04/18 18:43:43.426 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:43:43.426 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:43:43.427 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:43:43.428 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:43.429 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:43.429 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:43.430 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:43.431 [D] [asm_amd64.s:522] this is operation data ------- [0xc00052c7e0 0xc00052c850 0xc00052c8c0 0xc00052c930 0xc00052c9a0 0xc00052ca10 0xc00052ca80]
+2019/04/18 18:43:43.435 [D] [server.go:2742] 127.0.0.1 - - [18/Apr/2019 06:43:43] "GET /list_service HTTP/1.1 200 0" 0.011008 http://127.0.0.1:10001/list_service Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+
+2019/04/18 18:43:45.682 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:43:45.682 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:43:45.682 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:43:45.684 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:45.684 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:45.685 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:45.685 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:43:45.686 [D] [asm_amd64.s:522] this is operation data ------- [0xc00083ddc0 0xc00083de30 0xc00083dea0 0xc00083df10 0xc00083df80 0xc000874000 0xc000874070]
+2019/04/18 18:43:45.690 [D] [server.go:2742] 127.0.0.1 - - [18/Apr/2019 06:43:45] "GET /list_service HTTP/1.1 200 0" 0.010007 http://127.0.0.1:10001/list_service Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+
+2019/04/18 18:43:47.384 [D] [server.go:2742] 127.0.0.1 - - [18/Apr/2019 06:43:47] "GET /activity/create HTTP/1.1 404 0" 0.000000 http://127.0.0.1:10001/list_service Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+
+2019/04/18 18:43:51.015 [D] [server.go:2742] 127.0.0.1 - - [18/Apr/2019 06:43:51] "GET /activity/create HTTP/1.1 404 0" 0.000000 http://127.0.0.1:10001/list_service Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+
+2019/04/18 18:44:49.170 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:44:49.170 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:44:49.172 [D] [operation.go:16] operations----- 2019-2-17 [127.0.0.1:6066] 
+2019/04/18 18:44:49.172 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:44:49.173 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:44:49.173 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:44:49.173 [D] [operation.go:16] operations----- 2019.2.22 [127.0.0.1:6066] random
+2019/04/18 18:44:49.174 [D] [asm_amd64.s:522] this is operation data ------- [0xc000735500 0xc000735570 0xc0007355e0 0xc000735650 0xc0007356c0 0xc000735730 0xc0007357a0]
+2019/04/18 18:44:49.178 [D] [server.go:2742] 127.0.0.1 - - [18/Apr/2019 06:44:49] "GET /list_service HTTP/1.1 200 0" 0.010006 http://127.0.0.1:10001/list_service Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+
+2019/04/18 18:44:49.394 [D] [server.go:2742] 127.0.0.1 - - [18/Apr/2019 06:44:49] "GET /static/image/favicon.ico HTTP/1.1 200 0" 0.000000 http://127.0.0.1:10001/list_service Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+

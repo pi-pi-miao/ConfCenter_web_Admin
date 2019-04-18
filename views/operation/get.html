@@ -1,0 +1,108 @@
+<!-- BEGIN PAGE CONTAINER-->
+
+<div class="container-fluid">
+
+<!-- BEGIN PAGE HEADER-->
+
+<div class="row-fluid">
+
+    <div class="span12">
+
+                <ul class="breadcrumb">
+
+            <li>
+
+                <i class="icon-home"></i>
+
+                <a href="/list_service">查看接入网关服务</a>
+
+                <i class="icon-angle-right"></i>
+
+            </li>
+
+            <li>
+                {{/*//这里要添加href后面的路由，这里是跳转*/}}
+                <a href="#"> 查看接入网关服务</a>
+
+                <i class="icon-angle-right"></i>
+
+            </li>
+
+
+        </ul>
+
+        <!-- END PAGE TITLE & BREADCRUMB-->
+
+    </div>
+
+</div>
+
+<!-- END PAGE HEADER-->
+
+<!-- BEGIN PAGE CONTENT-->
+
+<div class="row-fluid">
+
+    <div class="span12">
+
+        <!-- BEGIN SAMPLE TABLE PORTLET-->
+
+        <div class="portlet box red">
+
+            <div class="portlet-title">
+
+                <div class="caption"><i class="icon-cogs"></i>接入quick的所有服务</div>
+
+            </div>
+
+            <div class="portlet-body">
+
+                <table class="table table-hover">
+
+                    <thead>
+
+                        <tr>
+                            <th>服务的路由</th>
+                            <th>服务名字</th>
+                            {{/*<th class="hidden-480">服务详细信息</th>*/}}
+                            <th>服务地址</th>
+                            <th>注册时间</th>
+                            <th>选择的负载均衡方法</th>
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+                        {{range .operation_list}}
+                        <tr>
+                                <td>{{.Route}}</td>
+                                <td>{{.ServiceName}}</td>
+                                <td>{{.ServiceAddr}}</td>
+                                <td>{{.RegisterTime}}</td>
+                                <td>{{.Balance}}</td>
+                        </tr>
+
+                        {{end}}
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </div>
+
+        <!-- END SAMPLE TABLE PORTLET-->
+
+    </div>
+
+
+    </div>
+
+</div>
+
+<!-- END PAGE CONTENT-->
+
+</div>
+
+<!-- END PAGE CONTAINER--> 
+
