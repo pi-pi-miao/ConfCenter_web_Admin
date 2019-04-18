@@ -1,4 +1,4 @@
-<img src='https://github.com/PyreneGitHub/ConfCenter_web_Admin/blob/master/png/logo.png' align='center' style=' width:300px;height:100 px'/>
+<img src='https://github.com/PyreneGitHub/ConfCenter_web_Admin/blob/master/png/logo.png div align=center;  width = 50% height = 50%'/>
 
 
 
